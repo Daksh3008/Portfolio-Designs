@@ -1,5 +1,5 @@
 # Portfolio-Designs
-Repo for my personal designs generated using figma and Adobe XD for my applications developed during my studies and internships
+Repo for my personal designs generated using figma and Adobe XD for the applications that I developed during my studies and internships
 
 links to my figma board:
 
