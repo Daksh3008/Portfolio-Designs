@@ -1,7 +1,7 @@
 # Portfolio-Designs
 Repo for my personal designs generated using figma and Adobe XD for the applications that I developed during my studies and internships
 
-links to my figma board:
+links to my figma boards:
 
 https://www.figma.com/file/kafhgxpo3gGha7VPqu5g2J/Untitled?t=Jbq3pjiaK50mn8Ui-6
 https://www.figma.com/file/baeB4zakF8aTjlqVNeRi7Y/Gym-Pro-app?t=Jbq3pjiaK50mn8Ui-6
@@ -14,3 +14,7 @@ The main task of this app was to give recommendations based on the age and gende
 There are many future features planned for the app such as custom budget-friendly diet plans, customizable diet plans or recommendations from experts, virtual gym training by experts, locations of gyms nearby,etc. will also be implemented in the future.
 
 I'm extremely proud of being part of such project which targets helping people in being fit and achieving their dream of living a healthy life.
+
+Moving on to LeaseIt, It is an E-Commerce app idea which involves users to lease all sorts of things from other users costing them a fraction of amount which they would have to spend for outright buying the thing. This Idea was inspired from an app where people can lease their cars to other users. 
+User Requirements research was performed to study about the difficulties faced by people to rent out things and how to solve the issues of payment and authenticity of the products posted. 
+Protoypes, Journey Maps and Low Fidelity prototypes were generated for this app and presented to cross-functional teams and Business Analyst team in collaboration with the team of designers while keeping experience of the user throughout thought process.
